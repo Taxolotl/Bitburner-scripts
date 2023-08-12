@@ -1,4 +1,4 @@
-## To use or update run `nano import.js` and paste the contents of [import.js](https://github.com/Taxolotl/Bitburner-scripts/raw/main/import.js)
+### To use or update run `nano import.js` and paste the contents of [import.js](https://github.com/Taxolotl/Bitburner-scripts/raw/main/import.js), then run `run import.js`
 
 ## Guide to my scripts:
 
