@@ -1,4 +1,4 @@
-Guide to my scripts:
+## Guide to my scripts:
 
   buy-server.js is the script you run when you want to buy a server.
 
