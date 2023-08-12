@@ -1,3 +1,5 @@
+## To use or update run `nano import.js` and paste the contents of [import.js](https://github.com/Taxolotl/Bitburner-scripts/raw/main/import.js)
+
 ## Guide to my scripts:
 
   buy-server.js is the script you run when you want to buy a server.
@@ -38,6 +40,8 @@
   upgrade-server-RESERV.js is an end-game script to keep your money above 100b whilst also upgrading your purchased servers.
 
   upgrade-server.js is a script to upgrade your purchased servers to better RAM levels.
+
+  import.js is the updater script.
 
   I would reccomend adding "run factions-toast.js; run hnet.js; run go.js" to your autoexec scripts in Help -> Options -> System.
 
