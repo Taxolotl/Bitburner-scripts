@@ -6,8 +6,6 @@
 
   exploits.js is only to get SF--1 (untested);
 
-  find-coding-contract is a script that looks for coding contracts and tells you the closest one.
-
   find-server.js finds a specific folder that you give it via args.
 
   factions-toast.js makes a toast pop up whenever you can join a faction. it also tells you what you need to do for it. BN4 will improve
@@ -26,7 +24,7 @@
 
   min.js is my testing script. feel free to edit it to your needs
 
-  myHNet.js is a script that purchases and upgrades hacknet nodes.
+  hnet.js is a script that purchases and upgrades hacknet nodes.
 
   restore.js is a script to make go.js work again once it stops working, however it may not work all the time, also not currently in use.
     deploys wk.js and gr.js to all servers with a specific target
@@ -41,9 +39,4 @@
 
   upgrade-server.js is a script to upgrade your purchased servers to better RAM levels.
 
-  
-
-
-
-
-  I would reccomend adding "run factions-toast.js; run myHNet.js; run go.js" to your autoexec scripts in Help -> Options -> System.
+  I would reccomend adding "run factions-toast.js; run hnet.js; run go.js" to your autoexec scripts in Help -> Options -> System.
