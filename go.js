@@ -1,3 +1,4 @@
+//NOT MINE, IDK WHERE I FOUND IT
 /** @param {NS} ns **/
 
 /**
