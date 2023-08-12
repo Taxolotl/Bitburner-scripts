@@ -4,7 +4,7 @@
 
   crimes.js is a WIP, I need BN4;
 
-  exploits.js is only to get SF--1
+  exploits.js is only to get SF--1 (untested);
 
   find-coding-contract is a script that looks for coding contracts and tells you the closest one.
 
