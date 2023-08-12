@@ -1,3 +1,5 @@
+//THIS IS NOT MINE, I FOUND IT AND IDK WHERE
+
 function recursiveScan(ns, parent, server, target, route) {
     const children = ns.scan(server);
     for (let child of children) {
