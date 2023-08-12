@@ -40,3 +40,5 @@
   upgrade-server.js is a script to upgrade your purchased servers to better RAM levels.
 
   I would reccomend adding "run factions-toast.js; run hnet.js; run go.js" to your autoexec scripts in Help -> Options -> System.
+
+  ##### (some of these may not be mine)
